@@ -86,4 +86,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-You can use this README template as a starting point and add more specific details about your project, dataset, and results as needed.
